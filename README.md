@@ -37,7 +37,7 @@ Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 pkg install git
 pkg install python
 git clone https://github.com/masterqalaq/-mr.qlq-insta-turbo.git
-cdmr.qlq-insta-spam
+cd mr.qlq-insta-spam
 python3 -m pip install requests
 python main.py
 ```
